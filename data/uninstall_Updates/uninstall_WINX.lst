@@ -1,0 +1,32 @@
+# Uninstall Windows 10 related updates
+# Added by uninstall_Updates plugin
+# in the format:
+# [KBID]<TAB><TAB>[Description]
+#
+# Lines starting with a "#" are comments and will be ignored.
+
+2952664		Compatibility update for upgrading Windows 7 [VERIFIED]
+2966583		Improvements for the System Update Readiness Tool in Windows 7 and Windows Server 2008 R2 [VERIFIED]
+2976978		Compatibility update for Windows 8.1 and Windows 8 [VERIFIED]
+2977759		Compatibility update for Windows 7 RTM [VERIFIED]
+2990214		Update that enables you to upgrade from Windows 7 to a later version of Windows [VERIFIED]
+3012973		Upgrade to windows 10 [VERIFIED]
+3014460		Update for windows insider preview / upgrade to windows 10 [VERIFIED]
+3035583		Update installs Get Windows 10 app in Windows 8.1 and Windows 7 SP1 [VERIFIED]
+3044374		Update that enables you to upgrade from Windows 8.1 to Windows 10 [VERIFIED]
+3046480		Update helps to determine whether to migrate the .NET Framework 1.1 when you upgrade Windows 8.1 or Windows 7 [VERIFIED]
+3058168		Update: activate Windows 10 from Windows 8 or Windows 8.1, and Windows Server 2012 or Windows Server 2012 R2 KMS hosts [VERIFIED]
+3064683		Windows 8.1 OOBE modifications to reserve Windows 10 [VERIFIED]
+3072318		Update for Windows 8.1 OOBE to upgrade to Windows 10 [VERIFIED]
+3074677		Compatibility update for upgrading to Windows 10 [VERIFIED]
+3081437		August 18, 2015, compatibility update for upgrading to Windows 10 [VERIFIED]
+3081454		September 8, 2015, compatibility update for upgrading to Windows 10 [VERIFIED]
+3081954		Update for Work Folders improvements in Windows 7 SP1 [Windows 10 upgrade] [VERIFIED]
+3090045		Windows Update for reserved devices in Windows 8.1 or Windows 7 SP1 [VERIFIED]
+3102810		Installing and searching for updates is slow and high CPU usage occurs in Windows 7 and Windows Server 2008 R2 [Suspected Windows 10 upgrade]
+3102812		Installing and searching for updates is slow and high CPU usage occurs in Windows 8.1 and Windows Server 2012 R2 [Suspected Windows 10 upgrade]
+3123862		Updated capabilities to upgrade Windows 8.1 and Windows 7 [VERIFIED]
+3150513		May 2016 Compatibility Update for Windows [VERIFIED]
+3173040		Windows 8.1 and Windows 7 SP1 end of free upgrade offer notification [VERIFIED]
+3184143		Remove software related to the Windows 10 free upgrade offer [UNNEEDED]
+3146449		Updated Internet Explorer 11 capabilities to upgrade Windows 8.1 and Windows 7 [VERIFIED]

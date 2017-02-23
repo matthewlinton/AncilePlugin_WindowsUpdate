@@ -1,0 +1,14 @@
+# Uninstall Preview of Monthly Quality Rollup for Windows
+# Added by uninstall_Updates plugin
+# in the format:
+# [KBID]<TAB><TAB>[Description]
+#
+# Lines starting with a "#" are comments and will be ignored.
+
+3192403		October 2016 Preview of Monthly Quality Rollup for Windows 7 SP1 and Windows Server 2008 R2 SP1 [VERIFIED]
+3192404		October 2016 Preview of Monthly Quality Rollup for Windows 8.1 and Windows Server 2012 R2 [VERIFIED]
+3192406		October 2016 Preview of Monthly Quality Rollup for Windows Server 2012 [VERIFIED]
+
+3197869		November 2016 Preview of Monthly Quality Rollup for Windows 7 SP1 and Windows Server 2008 R2 SP1
+3197875		November 2016 Preview of Monthly Quality Rollup for Windows 8.1 and Windows Server 2012 R2
+3197878		November 2016 Preview of Monthly Quality Rollup for Windows Server 2012

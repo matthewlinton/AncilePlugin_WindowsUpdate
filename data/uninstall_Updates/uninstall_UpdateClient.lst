@@ -1,0 +1,21 @@
+# Uninstall Windows Update Client
+# Added by uninstall_Updates plugin
+# in the format:
+# [KBID]<TAB><TAB>[Description]
+#
+# Lines starting with a "#" are comments and will be ignored.
+
+3065987		Windows Update Client for Windows 7 and Windows Server 2008 R2: July 2015 [Suspected telemetry spying]
+3065988		Windows Update Client for Windows 8.1 and Windows Server 2012 R2: July 2015 [Suspected telemetry spying]
+3075851		Windows Update Client for Windows 7 and Windows Server 2008 R2: August 2015 [Contains KB2990214 Windows 10 upgrade ] [VERIFIED]
+3075853		Windows Update Client for Windows 8.1 and Windows Server 2012 R2: August 2015  [Suspected Windows 10 upgrade]
+3083324		Windows Update Client for Windows 7 and Windows Server 2008 R2: September 2015 [Windows 10 upgrade] [VERIFIED]
+3083325		Windows Update Client for Windows 8.1 and Windows Server 2012 R2: September 2015 [Windows 10 upgrade] [VERIFIED]
+3083710		Windows Update Client for Windows 7 and Windows Server 2008 R2: October 2015 [Contains KB2990214 Windows 10 upgrade [VERIFIED]
+3083711		Windows Update Client for Windows 8.1 and Windows Server 2012 R2: October 2015 [Contains KB3044374 Windows 10 upgrade] [VERIFIED]
+3112336		Windows Update Client for Windows 8.1 and Windows Server 2012 R2: December 2015 [VERIFIED]
+3112343		Windows Update Client for Windows 7 and Windows Server 2008 R2: December 2015 [VERIFIED]
+3135445		Windows Update Client for Windows 7 and Windows Server 2008 R2: February 2016 [Contains KB2990214 Windows 10 upgrade ] [VERIFIED]
+3135449		Windows Update Client for Windows 8.1 and Windows Server 2012 R2: February 2016 [Contains KB3044374 Windows 10 upgrade] [VERIFIED]
+3138612		Windows Update Client for Windows 7 and Windows Server 2008 R2: March 2016 [Contains KB2990214 Windows 10 upgrade ] [VERIFIED]
+3138615		Windows Update Client for Windows 8.1 and Windows Server 2012 R2: March 2016 [Contains KB3044374 Windows 10 upgrade] [VERIFIED]

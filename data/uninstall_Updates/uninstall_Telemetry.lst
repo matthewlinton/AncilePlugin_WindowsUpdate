@@ -1,0 +1,15 @@
+# Uninstall Windows Telemetry updates
+# Added by uninstall_Updates plugin
+# in the format:
+# [KBID]<TAB><TAB>[Description]
+#
+# Lines starting with a "#" are comments and will be ignored.
+
+2882822		Update adds ITraceRelogger interface support to Windows Embedded Standard 7 SP1, Windows 7 SP1 and Windows Server 2008 R2 SP1 [VERIFIED]
+3015249		[Upgrade that adds telemetry points to consent.exe in Windows 8.1 and Windows 7] [VERIFIED]
+3022345		Update for customer experience and diagnostic telemetry [VERIFIED]
+3068708		Update for customer experience and diagnostic telemetry [VERIFIED]
+3075249		Update that adds telemetry points to consent.exe in Windows 8.1 and Windows 7 [VERIFIED]
+3080149		Update for customer experience and diagnostic telemetry [VERIFIED]
+3088195		MS15-111: Description of the security update for Windows Kernel: October 13, 2015 [Suspected kernel keylogger]
+3093983		MS15-106: Security update for Internet Explorer: October 13, 2015 [Suspected IE spying]

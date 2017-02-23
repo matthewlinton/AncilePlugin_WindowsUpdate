@@ -1,0 +1,12 @@
+# Uninstall other updates
+# Added by uninstall_Updates plugin
+# in the format:
+# [KBID]<TAB><TAB>[Description]
+#
+# Lines starting with a "#" are comments and will be ignored.
+
+2902907		[Description not available, update was pulled by Microsoft] [VERIFIED]
+2922324		[Description not available, update was pulled by Microsoft] [VERIFIED]
+3021917		Update to Windows 7 SP1 for performance improvements [VERIFIED]
+3042058		Microsoft security advisory: Update to default cipher suite priority order: May 12, 2015 [Suspected winlogin spying behavior]
+3139929		MS16-023: Security update for Internet Explorer: March 8, 2016 [Contains KB3146449 Windows 10 Nagging] [VERIFIED]
