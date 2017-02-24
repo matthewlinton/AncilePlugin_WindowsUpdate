@@ -1,0 +1,6 @@
+# The following are a list of tasks related to Microsoft's Get
+# Windows 10 Upgrade which will be disabled by Ancile
+#
+# Lines starting with a "#" are comments and will be ignored.
+
+\microsoft\windows\setup\gwx\refreshgwxconfigandcontent

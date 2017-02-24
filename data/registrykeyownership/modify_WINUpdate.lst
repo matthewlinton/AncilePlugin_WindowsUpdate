@@ -1,0 +1,4 @@
+# Modify Windows Update behavior
+# The following registry keys are modified by the modify_WINUpdate plugin
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Windowsupdate\Auto Update

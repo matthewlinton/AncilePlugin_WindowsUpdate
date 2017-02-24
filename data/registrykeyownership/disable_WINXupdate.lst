@@ -1,0 +1,5 @@
+# Disable WIndows 10 Upgrade
+# The following registry keys are modified by the disable_winx plugin
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\GWX
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate
