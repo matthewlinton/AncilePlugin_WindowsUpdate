@@ -68,13 +68,13 @@ IF "%DISABLEWINXUPDATE%"=="N" (
 		ECHO   Disabling GWX Download
 		
 		IF EXIST "%WINXDIR%" (
-			takeown /F "%WINXDIR%" /A /R >> "%LOGFILE%" 2>&1
+			takeown /F "%WINXDIR%" /A /R /D y >> "%LOGFILE%" 2>&1
 			RMDIR /Q /S "%WINXDIR%" >> "%LOGFILE%" 2>&1
 		)
 		
 		MKDIR "%WINXDIR%" >> "%LOGFILE%" 2>&1
 		attrib +h "%WINXDIR%" >> "%LOGFILE%" 2>&1
-		takeown /F "%WINXDIR%" /A /R >> "%LOGFILE%" 2>&1
+		takeown /F "%WINXDIR%" /A /R /D y >> "%LOGFILE%" 2>&1
 		icacls "%WINXDIR%" /grant:r *S-1-5-32-544:F /T /C >> "%LOGFILE%" 2>&1
 	)
 )
