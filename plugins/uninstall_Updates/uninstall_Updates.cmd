@@ -47,9 +47,9 @@ IF "%UNINSTALLUPDATES%"=="N" (
 		ECHO %UPDATEDIR%\%%i >> "%LOGFILE%" 2>&1
 		IF "%DEBUG%"=="Y" (
 			sc query wuauserv >> "%LOGFILE%" 2>&1
-			sc query wuauserv 2>&1 | findstr /I RUNNING >nul 2>&1 && powershell -executionpolicy remotesigned -File "%UPDTDISABLE%" -KBFile "%UPDATEDIR%\%%i" >> "%LOGFILE%" 2>&1
+			sc query wuauserv 2>&1 | findstr /I RUNNING >nul 2>&1 && powershell -executionpolicy RemoteSigned -File "%UPDTDISABLE%" -KBFile "%UPDATEDIR%\%%i" >> "%LOGFILE%" 2>&1
 		) ELSE (
-			sc query wuauserv 2>&1 | findstr /I RUNNING >nul 2>&1 && powershell -executionpolicy remotesigned -File "%UPDTDISABLE%" -KBFile "%UPDATEDIR%\%%i" >nul 2>&1
+			sc query wuauserv 2>&1 | findstr /I RUNNING >nul 2>&1 && powershell -executionpolicy RemoteSigned -File "%UPDTDISABLE%" -KBFile "%UPDATEDIR%\%%i" >nul 2>&1
 		)
 	)
 

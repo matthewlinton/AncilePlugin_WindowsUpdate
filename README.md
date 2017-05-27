@@ -1,5 +1,5 @@
 # Ancile Windows Update Plugin(https://bitbucket.org/matthewlinton/ancile_windowsupdate)
-Ancile Windows Update Plugin blocks various Windows hosts and domains using the Windows firewall, hosts file, and routing table.
+Ancile Windows Update Plugin removes and hides unwanted Windows Updates.
 
 This is a plugin that requires Ancile_Core (https://bitbucket.org/matthewlinton/ancile_core) 
 
