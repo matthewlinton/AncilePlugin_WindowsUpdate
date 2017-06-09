@@ -1,0 +1,5 @@
+1.1
+	Fixed issue of powershell script not running on some systems
+
+1.0 
+	Initial release
