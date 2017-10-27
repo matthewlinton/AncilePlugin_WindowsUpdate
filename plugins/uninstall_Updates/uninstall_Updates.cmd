@@ -44,7 +44,7 @@ IF "%UNINSTALLUPDATES%"=="N" (
 	ECHO   Uninstalling Updates
 	
 	FOR /F "tokens=*" %%i IN ('DIR /B "%UPDATELISTS%" 2^>^> "%LOGFILE%"') DO (
-		ECHO %UPDATEDIR%\%%i >> "%LOGFILE%" 2>&1
+		ECHO "%UPDATEDIR%\%%i" >> "%LOGFILE%" 2>&1
 		IF "%DEBUG%"=="Y" (
 			sc query wuauserv >> "%LOGFILE%" 2>&1
 			sc query wuauserv 2>&1 | findstr /I RUNNING >nul 2>&1 && powershell -executionpolicy RemoteSigned -File "%UPDTDISABLE%" -KBFile "%UPDATEDIR%\%%i" >> "%LOGFILE%" 2>&1

@@ -1,3 +1,12 @@
+1.0.5
+	Added KB4041685, KB4038774, KB4038797, KB4038803 to monthly preview list
+
+1.0.4
+	Added KB4034659, KB4034663, KB4034670, KB4015552, KB4015553 to monthly preview list
+	
+1.0.3
+	Added KB4022168, KB4022720, KB4022721, KB4025335 to monthly preview list
+
 1.0.2
 	Added KB4019217 and KB4019265 to monthly preview list
 

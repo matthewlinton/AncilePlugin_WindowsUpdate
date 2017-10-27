@@ -1,3 +1,6 @@
+1.2
+	Added missing quotes for logging Windows Update uninstall data files (Thanks Miguel Serejo)
+
 1.1
 	Fixed issue of powershell script not running on some systems
 
