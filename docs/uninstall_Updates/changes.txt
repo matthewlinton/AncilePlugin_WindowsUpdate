@@ -1,3 +1,6 @@
+1.3
+	Changed powershell execution policy to "Bypass"
+
 1.2
 	Added missing quotes for logging Windows Update uninstall data files (Thanks Miguel Serejo)
 
